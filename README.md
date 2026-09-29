@@ -1,180 +1,77 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:020617,45:0f172a,100:06b6d4&text=Vihanga%20Thathsara&fontColor=ffffff&fontSize=46&fontAlignY=35&desc=Full-Stack%20Software%20Engineer&descAlignY=57&descSize=20&animation=fadeIn" alt="Vihanga Thathsara banner"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0:020617,45:0f172a,100:06b6d4&text=Vihanga%20Thathsara&fontColor=ffffff&fontSize=42&fontAlignY=35&desc=Full-Stack%20Software%20Engineer&descAlignY=58&descSize=18" alt="Vihanga Thathsara — Full-Stack Software Engineer"/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&pause=1000&color=22D3EE&center=true&vCenter=true&width=900&lines=Engineering+scalable%2C+secure+and+impactful+solutions;Turning+complex+ideas+into+reliable+software;Clean+code+%7C+System+design+%7C+Continuous+learning" alt="Typing SVG"/></a>
+**Java at the core. Full-stack in practice.**
 
-<br/>
+Backend development · Web applications · Maintainable software
 
-[![Profile Views](https://komarev.com/ghpvc/?username=VihangaThathsara&label=PROFILE+VIEWS&color=06b6d4&style=for-the-badge)](https://github.com/VihangaThathsara)
-[![Followers](https://img.shields.io/github/followers/VihangaThathsara?label=FOLLOWERS&style=for-the-badge&color=0ea5e9)](https://github.com/VihangaThathsara?tab=followers)
-[![Stars](https://img.shields.io/github/stars/VihangaThathsara?affiliations=OWNER&label=TOTAL+STARS&style=for-the-badge&color=14b8a6)](https://github.com/VihangaThathsara?tab=repositories)
+<a href="https://github.com/VihangaThathsara"><img src="https://img.shields.io/badge/Java-Primary%20Language-06b6d4?style=flat-square&labelColor=0f172a" alt="Java — Primary Language"/></a>
+<img src="https://img.shields.io/badge/Based%20in-Sri%20Lanka-06b6d4?style=flat-square&labelColor=0f172a" alt="Based in Sri Lanka"/>
+<img src="https://img.shields.io/badge/GitHub%20since-Oct%202024-06b6d4?style=flat-square&labelColor=0f172a" alt="GitHub since October 2024"/>
 
 </div>
-
----
 
 ## 👨‍💻 About Me
 
+I'm **Vihanga Thathsara**, a Full-Stack Software Engineer based in **Kurunegala, Sri Lanka**. **Java is my strongest language**, with a focus on backend development and connecting application logic, databases and user interfaces.
+
 ```java
 public class VihangaThathsara {
-
-    private final String role = "Full-Stack Software Engineer";
-    private final String location = "Kurunegala, Sri Lanka";
-
-    private final String[] focus = {
-        "Scalable Software Architecture",
-        "Secure Backend Systems",
-        "Modern User Experiences",
-        "Clean and Maintainable Code"
+    private final String primaryLanguage = "Java";
+    private final String[] interests = {
+        "Backend Engineering", "Full-Stack Applications", "Software Design"
     };
-
-    public String mission() {
-        return "Build software that solves real problems and creates lasting value.";
-    }
 }
 ```
 
-- 🔭 Building practical, production-focused software solutions
-- 🧠 Interested in full-stack engineering, system design and software architecture
-- ⚙️ Focused on clean code, security, performance and maintainability
-- 🚀 Continuously improving through real-world projects and collaborative development
-- 🤝 Open to meaningful collaborations and challenging engineering work
-
----
+- **Building with:** Java, Jakarta EE, REST APIs and relational databases.
+- **Engineering priorities:** clear application structure, input validation, authentication and role-based access.
+- **Current focus:** preparing my projects for public release with clear setup guides and demonstrations.
+- **Open to:** collaboration on practical software projects.
 
 ## 🛠️ Technology Stack
 
-<div align="center">
+**Core · Java & Backend**
 
-### Languages
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs,express&theme=dark" alt="Java, Spring, Node.js and Express"/>
 
-<img src="https://skillicons.dev/icons?i=java,js,ts,html,css&theme=dark" alt="Java, JavaScript, TypeScript, HTML and CSS"/>
+<img src="https://img.shields.io/badge/Jakarta%20EE-0f172a?style=flat-square&labelColor=0f172a&color=0f172a" alt="Jakarta EE"/> <img src="https://img.shields.io/badge/Payara-0f172a?style=flat-square" alt="Payara"/> <img src="https://img.shields.io/badge/REST%20APIs-0f172a?style=flat-square" alt="REST APIs"/>
 
-<br/><br/>
+**Web · Languages & Interface**
 
-<img src="https://img.shields.io/badge/SQL-0F172A?style=for-the-badge" alt="SQL"/>
+<img src="https://skillicons.dev/icons?i=js,ts,html,css,react,bootstrap,tailwind&theme=dark" alt="JavaScript, TypeScript, HTML, CSS, React, Bootstrap and Tailwind CSS"/>
 
-### Frontend
+**Data · SQL & NoSQL**
 
-<img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind,figma&theme=dark" alt="Frontend"/>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&theme=dark" alt="MySQL, PostgreSQL and MongoDB"/>
 
-### Backend & Enterprise
+**Tools · Development & Design**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,spring&theme=dark" alt="Backend"/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,idea,figma&theme=dark" alt="Git, GitHub, Docker, Postman, VS Code, IntelliJ IDEA and Figma"/>
 
-<p>
-  <img src="https://img.shields.io/badge/Jakarta%20EE-ED8B00?style=for-the-badge&logo=eclipseide&logoColor=white" alt="Jakarta EE"/>
-  <img src="https://img.shields.io/badge/Payara-FF6B00?style=for-the-badge" alt="Payara"/>
-  <img src="https://img.shields.io/badge/REST%20API-0F172A?style=for-the-badge" alt="REST API"/>
-</p>
-
-### Databases
-
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&theme=dark" alt="Databases"/>
-
-### Tools & Platforms
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,idea&theme=dark" alt="Tools"/>
-
-</div>
-
----
-
-## 🚀 Featured Engineering Focus
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🧩 Full-Stack Systems
-Designing complete software solutions across frontend, backend, database and deployment layers.
-
-</td>
-<td width="50%" valign="top">
-
-### 🏗️ Software Architecture
-Building modular, scalable and maintainable systems with clear engineering boundaries.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🔐 Secure by Design
-Treating authentication, authorization, validation and data protection as core requirements.
-
-</td>
-<td width="50%" valign="top">
-
-### ⚡ Performance Focus
-Improving responsiveness, reliability and efficiency through thoughtful implementation.
-
-</td>
-</tr>
-</table>
+## 📊 GitHub Activity
 
 <p align="center">
-  <a href="https://github.com/VihangaThathsara?tab=repositories">Browse my repositories →</a>
+<a href="https://github.com/VihangaThathsara"><img width="495" src="https://github-stats-extended.vercel.app/api?username=VihangaThathsara&show_icons=true&hide_border=true&title_color=22d3ee&text_color=cbd5e1&icon_color=14b8a6&bg_color=0d1117&hide_rank=true" alt="Vihanga Thathsara's GitHub statistics"/></a>
 </p>
 
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<p>
-  <a href="https://github.com/VihangaThathsara"><img width="495" src="https://github-stats-extended.vercel.app/api?username=VihangaThathsara&show_icons=true&hide_border=true&title_color=22d3ee&text_color=cbd5e1&icon_color=14b8a6&bg_color=0d1117&rank_icon=github" alt="Vihanga Thathsara — GitHub statistics"/></a>
+<p align="center">
+<a href="https://github.com/VihangaThathsara?tab=overview"><img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VihangaThathsara&theme=github_dark&name=Vihanga%20Thathsara&title_color=22d3ee&text_color=cbd5e1&bg_color=0d1117&chart_color=22d3ee" alt="Vihanga Thathsara's contribution activity over the past year"/></a>
 </p>
 
-<p>
-  <a href="https://github.com/VihangaThathsara"><img width="495" src="https://streak-stats.demolab.com?user=VihangaThathsara&theme=transparent&hide_border=true&background=0D1117&ring=22D3EE&fire=14B8A6&currStreakLabel=22D3EE&sideLabels=CBD5E1&dates=64748B&currStreakNum=F8FAFC&sideNums=F8FAFC" alt="Vihanga Thathsara — contribution streak"/></a>
+<!-- Restore Top Languages after public source-code repositories provide language data:
+<p align="center">
+<img width="495" src="https://github-stats-extended.vercel.app/api/top-langs/?username=VihangaThathsara&layout=compact&hide_border=true&title_color=22d3ee&text_color=cbd5e1&bg_color=0d1117&langs_count=8&card_width=495" alt="Most-used languages in public repositories"/>
 </p>
-
-<p>
-  <a href="https://github.com/VihangaThathsara?tab=repositories"><img width="495" src="https://github-stats-extended.vercel.app/api/top-langs/?username=VihangaThathsara&layout=compact&hide_border=true&title_color=22d3ee&text_color=cbd5e1&bg_color=0d1117&langs_count=8&card_width=495" alt="Most-used languages in public repositories"/></a>
-</p>
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VihangaThathsara&theme=github_dark" width="100%" alt="Contribution Graph"/>
-
-</div>
-
----
-
-## 🧠 Engineering Principles
-
-```text
-01. Understand the problem before choosing the technology.
-02. Write code for humans first and computers second.
-03. Make security, testing and maintainability part of the design.
-04. Prefer simple, reliable solutions over unnecessary complexity.
-05. Keep learning, building and improving.
-```
-
----
+-->
 
 ## 🤝 Connect With Me
 
-<div align="center">
+<p align="center">
+<a href="https://github.com/VihangaThathsara"><img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=22d3ee" alt="GitHub"/></a> <a href="mailto:vihangathegreat2006@gmail.com"><img src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=22d3ee" alt="Email Vihanga Thathsara"/></a> <a href="https://www.linkedin.com/in/vihanga-thathsara-00187543b/"><img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge" alt="Vihanga Thathsara on LinkedIn"/></a>
+</p>
 
-<a href="https://github.com/VihangaThathsara"><img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=22D3EE" alt="GitHub"/></a>
+<p align="center"><b>Let's build something useful.</b></p>
 
-<a href="mailto:vihangathegreat2006@gmail.com"><img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=22D3EE" alt="Email"/></a>
-<a href="https://www.linkedin.com/in/vihanga-thathsara-00187543b/"><img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge" alt="LinkedIn"/></a>
-
-<br/><br/>
-
-<b>Let's build software that makes an impact.</b>
-
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:06b6d4,45:0f172a,100:020617" alt="Footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=70&section=footer&color=0:06b6d4,45:0f172a,100:020617" alt="Decorative footer"/>
