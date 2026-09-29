@@ -51,7 +51,11 @@ public class VihangaThathsara {
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=java,js,ts,html,css,sql&theme=dark" alt="Languages"/>
+<img src="https://skillicons.dev/icons?i=java,js,ts,html,css&theme=dark" alt="Java, JavaScript, TypeScript, HTML and CSS"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/SQL-0F172A?style=for-the-badge" alt="SQL"/>
 
 ### Frontend
 
@@ -63,8 +67,8 @@ public class VihangaThathsara {
 
 <p>
   <img src="https://img.shields.io/badge/Jakarta%20EE-ED8B00?style=for-the-badge&logo=eclipseide&logoColor=white" alt="Jakarta EE"/>
-  <img src="https://img.shields.io/badge/Payara-FF6B00?style=for-the-badge&logo=glassfish&logoColor=white" alt="Payara"/>
-  <img src="https://img.shields.io/badge/REST%20API-0F172A?style=for-the-badge&logo=fastapi&logoColor=22D3EE" alt="REST API"/>
+  <img src="https://img.shields.io/badge/Payara-FF6B00?style=for-the-badge" alt="Payara"/>
+  <img src="https://img.shields.io/badge/REST%20API-0F172A?style=for-the-badge" alt="REST API"/>
 </p>
 
 ### Databases
@@ -112,23 +116,9 @@ Improving responsiveness, reliability and efficiency through thoughtful implemen
 </tr>
 </table>
 
----
-
-## 📌 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/VihangaThathsara?tab=repositories">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=VihangaThathsara&repo=foreign-employment-crm&theme=transparent&hide_border=true&title_color=22d3ee&text_color=cbd5e1&icon_color=14b8a6&bg_color=0d1117" alt="Foreign Employment CRM"/>
-</a>
-
-<a href="https://github.com/VihangaThathsara?tab=repositories">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=VihangaThathsara&repo=jakarta-ee-transaction-system&theme=transparent&hide_border=true&title_color=22d3ee&text_color=cbd5e1&icon_color=14b8a6&bg_color=0d1117" alt="Jakarta EE Transaction System"/>
-</a>
-
-</div>
-
-> The project cards above become active after repositories with those exact names are created. Rename the links later if your repository names are different.
+<p align="center">
+  <a href="https://github.com/VihangaThathsara?tab=repositories">Browse my repositories →</a>
+</p>
 
 ---
 
@@ -136,11 +126,23 @@ Improving responsiveness, reliability and efficiency through thoughtful implemen
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=VihangaThathsara&show_icons=true&hide_border=true&theme=transparent&title_color=22d3ee&text_color=cbd5e1&icon_color=14b8a6&bg_color=0d1117&rank_icon=github" alt="GitHub Stats"/>
+<p>
+  <a href="https://github.com/VihangaThathsara">
+    <img width="495" src="https://github-stats-extended.vercel.app/api?username=VihangaThathsara&show_icons=true&hide_border=true&title_color=22d3ee&text_color=cbd5e1&icon_color=14b8a6&bg_color=0d1117&rank_icon=github" alt="Vihanga Thathsara — GitHub statistics"/>
+  </a>
+</p>
 
-<img width="49%" src="https://streak-stats.demolab.com?user=VihangaThathsara&theme=transparent&hide_border=true&background=0D1117&ring=22D3EE&fire=14B8A6&currStreakLabel=22D3EE&sideLabels=CBD5E1&dates=64748B&currStreakNum=F8FAFC&sideNums=F8FAFC" alt="GitHub Streak"/>
+<p>
+  <a href="https://github.com/VihangaThathsara">
+    <img width="495" src="https://streak-stats.demolab.com?user=VihangaThathsara&theme=transparent&hide_border=true&background=0D1117&ring=22D3EE&fire=14B8A6&currStreakLabel=22D3EE&sideLabels=CBD5E1&dates=64748B&currStreakNum=F8FAFC&sideNums=F8FAFC" alt="Vihanga Thathsara — contribution streak"/>
+  </a>
+</p>
 
-<img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VihangaThathsara&layout=compact&hide_border=true&theme=transparent&title_color=22d3ee&text_color=cbd5e1&bg_color=0d1117&langs_count=8" alt="Top Languages"/>
+<p>
+  <a href="https://github.com/VihangaThathsara?tab=repositories">
+    <img width="495" src="https://github-stats-extended.vercel.app/api/top-langs/?username=VihangaThathsara&layout=compact&hide_border=true&title_color=22d3ee&text_color=cbd5e1&bg_color=0d1117&langs_count=8&card_width=495" alt="Most-used languages in public repositories"/>
+  </a>
+</p>
 
 </div>
 
@@ -172,15 +174,11 @@ Improving responsiveness, reliability and efficiency through thoughtful implemen
 
 <div align="center">
 
-<a href="mailto:YOUR_EMAIL_ADDRESS">
-  <img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=22D3EE" alt="Email"/>
+<a href="https://github.com/VihangaThathsara">
+  <img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=22D3EE" alt="GitHub"/>
 </a>
-<a href="YOUR_LINKEDIN_URL">
-  <img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=22D3EE" alt="LinkedIn"/>
-</a>
-<a href="YOUR_PORTFOLIO_URL">
-  <img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=22D3EE" alt="Portfolio"/>
-</a>
+
+<!-- Add Email, LinkedIn and Portfolio buttons here after supplying their real URLs. -->
 
 <br/><br/>
 
