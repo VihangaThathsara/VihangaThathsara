@@ -14,7 +14,7 @@
 
 ## 👨‍💻 About Me
 
-I'm **Vihanga Thathsara**, a **Software Engineering undergraduate and Full-Stack Developer**, currently completing my degree. **Java is my strongest language**, with a focus on backend development and connecting application logic, databases and user interfaces.
+I'm **Vihanga Thathsara Manukulasooriya**, a **Software Engineering undergraduate and Full-Stack Developer**, currently completing my degree. **Java is my strongest language**, with a focus on backend development and connecting application logic, databases and user interfaces.
 
 ```java
 public class VihangaThathsara {
