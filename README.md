@@ -130,7 +130,7 @@ Developing readable code, clear setup guides and repeatable testing practices.
 ## 🤝 Connect With Me
 
 <p align="center">
-<a href="https://github.com/VihangaThathsara"><img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=22d3ee" alt="GitHub"/></a> <a href="mailto:vihangathegreat2006@gmail.com"><img src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=22d3ee" alt="Email Vihanga Thathsara"/></a> <a href="https://www.linkedin.com/in/vihanga-thathsara-00187543b/"><img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge" alt="Vihanga Thathsara on LinkedIn"/></a>
+<a href="https://github.com/VihangaThathsara"><img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=22d3ee" alt="GitHub"/></a> <a href="https://mail.google.com/mail/?view=cm&fs=1&to=vihangathegreat2006@gmail.com"><img src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=22d3ee" alt="Email Vihanga Thathsara"/></a> <a href="https://www.linkedin.com/in/vihanga-thathsara-00187543b/"><img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge" alt="Vihanga Thathsara on LinkedIn"/></a>
 </p>
 
 <p align="center"><b>Let's build something useful.</b></p>
