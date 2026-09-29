@@ -152,7 +152,9 @@ Improving responsiveness, reliability and efficiency through thoughtful implemen
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=VihangaThathsara&bg_color=0d1117&color=cbd5e1&line=22d3ee&point=14b8a6&area=true&hide_border=true" width="100%" alt="Contribution Graph"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VihangaThathsara&theme=github_dark" width="100%" alt="Contribution Graph"/>
+
+<p><a href="https://github.com/VihangaThathsara?tab=overview">View contribution activity on GitHub</a></p>
 
 </div>
 
@@ -178,7 +180,16 @@ Improving responsiveness, reliability and efficiency through thoughtful implemen
   <img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=22D3EE" alt="GitHub"/>
 </a>
 
-<!-- Add Email, LinkedIn and Portfolio buttons here after supplying their real URLs. -->
+<a href="mailto:vihangathegreat2006@gmail.com">
+  <img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=22D3EE" alt="Email"/>
+</a>
+<a href="https://www.linkedin.com/in/vihanga-thathsara-00187543b/">
+  <img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge" alt="LinkedIn"/>
+</a>
+
+<br/><br/>
+
+<a href="mailto:vihangathegreat2006@gmail.com">vihangathegreat2006@gmail.com</a> · <a href="https://www.linkedin.com/in/vihanga-thathsara-00187543b/">LinkedIn — Vihanga Thathsara</a>
 
 <br/><br/>
 
