@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="440" viewBox="0 0 1280 440" role="img" aria-labelledby="title desc">
+<title id="title">Vihanga Thathsara — Full-Stack Software Engineer</title>
+<desc id="desc">Software Engineering undergraduate. Java at the core. Backend, web and Android development.</desc>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#080E1A"/><stop offset="1" stop-color="#12233A"/></linearGradient>
+<radialGradient id="glow"><stop stop-color="#0891B2" stop-opacity=".2"/><stop offset="1" stop-color="#0891B2" stop-opacity="0"/></radialGradient>
+<pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#91B0CF" stroke-opacity=".06"/></pattern>
+</defs>
+<rect x="1" y="1" width="1278" height="438" rx="21" fill="url(#bg)" stroke="#2B4158"/>
+<rect x="2" y="50" width="1276" height="388" rx="20" fill="url(#grid)"/>
+<ellipse cx="1080" cy="243" rx="290" ry="218" fill="url(#glow)"/>
+<path d="M1 50H1279" stroke="#263A50"/>
+<circle cx="28" cy="26" r="5" fill="#FB7185"/><circle cx="46" cy="26" r="5" fill="#FBBF24"/><circle cx="64" cy="26" r="5" fill="#34D399"/>
+<g font-family="DejaVu Sans, Arial, sans-serif">
+<text x="88" y="31" fill="#8CA6BF" font-family="DejaVu Sans Mono, monospace" font-size="12">~/vihanga / engineer.profile</text>
+<circle cx="1044" cy="26" r="4" fill="#34D399"/>
+<text x="1058" y="30" fill="#A7D4C8" font-size="10" font-weight="700" letter-spacing="1">OPEN TO COLLABORATION</text>
+<rect x="63" y="92" width="28" height="3" rx="1.5" fill="#67E8F9"/>
+<text x="104" y="99" fill="#67E8F9" font-size="11" font-weight="700" letter-spacing="1.7">SOFTWARE ENGINEERING / UNDERGRADUATE</text>
+<text x="60" y="179" fill="#F1F5F9" font-size="68" font-weight="700" letter-spacing="-2.5">Vihanga</text>
+<text x="60" y="249" fill="#F1F5F9" font-size="68" font-weight="700" letter-spacing="-2.5">Thathsara<tspan fill="#67E8F9">.</tspan></text>
+<text x="64" y="294" fill="#C6D8EC" font-size="22" font-weight="600">Full-Stack Software Engineer</text>
+<text x="64" y="331" fill="#86A1BC" font-size="16">Strong backend thinking.</text>
+<text x="64" y="356" fill="#86A1BC" font-size="16">Thoughtful software, end to end.</text>
+<rect x="714" y="109" width="500" height="239" rx="14" fill="#0A1423" stroke="#36516B"/>
+<path d="M714 145H1214" stroke="#243C53"/>
+<text x="737" y="132" fill="#90ABC5" font-family="DejaVu Sans Mono, monospace" font-size="12">Developer.java</text>
+<rect x="1186" y="123" width="10" height="10" rx="2" fill="none" stroke="#547590"/>
+<g font-family="DejaVu Sans Mono, monospace" font-size="13">
+<g fill="#405C75"><text x="732" y="176">01</text><text x="732" y="204">02</text><text x="732" y="232">03</text><text x="732" y="260">04</text><text x="732" y="288">05</text><text x="732" y="316">06</text></g>
+<text x="768" y="176" fill="#E2E8F0"><tspan fill="#C4B5FD">public final class</tspan> Developer {</text>
+<text x="784" y="204" fill="#D6E5F3"><tspan fill="#67E8F9">String</tspan> name = <tspan fill="#A7F3D0">"Vihanga"</tspan>;</text>
+<text x="784" y="232" fill="#D6E5F3"><tspan fill="#67E8F9">String</tspan> core = <tspan fill="#FBBF24">"Java"</tspan>;</text>
+<text x="784" y="260" fill="#D6E5F3"><tspan fill="#67E8F9">String</tspan> focus = <tspan fill="#A7F3D0">"Full Stack"</tspan>;</text>
+<text x="784" y="288" fill="#D6E5F3"><tspan fill="#67E8F9">String</tspan> approach = <tspan fill="#A7F3D0">"Build. Test. Refine."</tspan>;</text>
+<text x="768" y="316" fill="#D6E5F3">}<tspan fill="#67E8F9"> _</tspan></text>
+</g>
+<path d="M64 391H1214" stroke="#263E55"/>
+<text x="64" y="419" fill="#67E8F9" font-size="11" font-weight="700" letter-spacing="1.5">JAVA AT THE CORE. FULL-STACK IN PRACTICE.</text>
+<text x="1214" y="419" text-anchor="end" fill="#7795B0" font-size="11" letter-spacing="1.5">BACKEND · WEB · MOBILE</text>
+</g>
+</svg>
