@@ -1,13 +1,39 @@
-<div align="right"><img src="https://komarev.com/ghpvc/?username=VihangaThathsara&amp;label=PROFILE+VIEWS&amp;color=7783ff&amp;style=flat-square&amp;abbreviated=true" height="22" alt="Profile views"></div>
 <div align="center">
-<picture><source media="(max-width: 600px)" srcset="assets/modern-hero-mobile.gif"><img align="top" src="assets/modern-hero.gif" width="100%" alt="Vihanga Thathsara, Full-Stack Software Engineer. Backend systems, web experiences and native Android applications. Animated portfolio header."></picture>
-<picture><source media="(max-width: 600px)" srcset="assets/modern-about-mobile.png"><img align="top" src="assets/modern-about.png" width="100%" alt="Vihanga Thathsara Manukulasooriya, Software Engineering undergraduate completing his degree. Java is my strongest programming language. I connect interfaces, application logic and databases to build applications. I share projects with clear setup guides and demonstrations. Priorities: readable code, input validation, authentication and role-based access. AI-edited portrait with arms crossed."></picture>
-<picture><source media="(max-width: 600px)" srcset="assets/modern-stack-mobile.png"><img align="top" src="assets/modern-stack.png" width="100%" alt="Technology stack shown as icons. Languages: Java, JavaScript, TypeScript, HTML and CSS. Backend: Spring, Node.js, Express, Jakarta EE, Payara, GlassFish and REST APIs. Frontend: React, Bootstrap, Tailwind CSS, Figma and WordPress. Mobile: native Android, Android Studio and Firebase. Databases: MySQL, PostgreSQL, MongoDB and SQLite. Tools: Git, GitHub, Docker, Postman, VS Code and IntelliJ IDEA."></picture>
-<picture><source media="(max-width: 600px)" srcset="assets/github-overview-mobile.svg"><img align="top" src="assets/github-overview.svg" width="100%" alt="Public GitHub activity: repositories, followers, stars received, contributions during the displayed year, join date and refresh time."></picture>
-<picture><source media="(max-width: 600px)" srcset="assets/languages-mobile.svg"><img align="top" src="assets/languages.svg" width="100%" alt="Most used languages by public source code size, excluding forks and this profile repository. The percentages describe code distribution."></picture>
-<picture><source media="(max-width: 600px)" srcset="assets/contributions-mobile.svg"><img align="top" src="assets/contributions.svg" width="100%" alt="Contribution history with current streak and best streak during the displayed 365 days. Desktop shows the annual calendar and a recent 90-day area chart. Mobile shows the most recent 91 days."></picture>
-<picture><source media="(max-width: 600px)" srcset="assets/modern-connect-mobile.png"><img align="top" src="assets/modern-connect.png" width="100%" alt="Connect with Vihanga Thathsara. Open to collaboration."></picture>
-<a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=vihangathegreat2006@gmail.com"><picture><source media="(max-width: 600px)" srcset="assets/modern-contact-email-mobile.png"><img align="top" src="assets/modern-contact-email.png" width="100%" alt="Gmail: vihangathegreat2006@gmail.com"></picture></a>
-<a href="https://www.linkedin.com/in/vihanga-thathsara-00187543b/"><picture><source media="(max-width: 600px)" srcset="assets/modern-contact-linkedin-mobile.png"><img align="top" src="assets/modern-contact-linkedin.png" width="50%" alt="LinkedIn: Vihanga Thathsara"></picture></a><a href="https://github.com/VihangaThathsara"><picture><source media="(max-width: 600px)" srcset="assets/modern-contact-github-mobile.png"><img align="top" src="assets/modern-contact-github.png" width="50%" alt="GitHub: VihangaThathsara"></picture></a>
-<picture><source media="(max-width: 600px)" srcset="assets/modern-footer-mobile.png"><img align="top" src="assets/modern-footer.png" width="100%" alt="Vihanga Thathsara, Full-Stack Software Engineer"></picture>
+<picture>
+  <source media="(max-width: 600px)" srcset="assets/portfolio-hero-mobile.gif">
+  <img align="top" src="assets/portfolio-hero.gif" width="100%" alt="Vihanga Thathsara — Full-Stack Software Engineer. Java at the core. Full-stack in practice. Software Engineering undergraduate, open to collaboration. Original portrait of Vihanga.">
+</picture>
+<a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=vihangathegreat2006@gmail.com"><picture><source media="(max-width: 600px)" srcset="assets/portfolio-action-email-mobile.png"><img align="top" src="assets/portfolio-action-email.png" width="50%" alt="Let's talk — email Vihanga in Gmail"></picture></a><a href="https://github.com/VihangaThathsara?tab=repositories"><picture><source media="(max-width: 600px)" srcset="assets/portfolio-action-github-mobile.png"><img align="top" src="assets/portfolio-action-github.png" width="50%" alt="View GitHub repositories"></picture></a>
+<picture>
+  <source media="(max-width: 600px)" srcset="assets/portfolio-about-mobile.png">
+  <img align="top" src="assets/portfolio-about.png" width="100%" alt="About Vihanga Thathsara Manukulasooriya, a Software Engineering undergraduate completing his degree. I connect interfaces, application logic and data to build backend systems, web applications and native Android apps. Current focus: preparing public projects with clear setup guides and demonstrations. Priorities: readable code, input validation, authentication and role-based access.">
+</picture>
+<picture>
+  <source media="(max-width: 600px)" srcset="assets/portfolio-skills-mobile.png">
+  <img align="top" src="assets/portfolio-skills.png" width="100%" alt="Technology stack. Languages: Java (primary), JavaScript, TypeScript, HTML and CSS. Backend: Spring, Node.js, Express, REST APIs, Jakarta EE, Payara and GlassFish. Frontend: React, Bootstrap, Tailwind CSS, Figma and WordPress. Mobile: Android, Android Studio and Firebase. Databases: MySQL, PostgreSQL, MongoDB and SQLite. Tools: Git, GitHub, Docker, Postman, VS Code and IntelliJ IDEA.">
+</picture>
+<a href="https://github.com/VihangaThathsara?tab=repositories"><picture>
+  <source media="(max-width: 600px)" srcset="assets/github-overview-mobile.svg">
+  <img align="top" src="assets/github-overview.svg" width="100%" alt="GitHub activity: public repositories, followers, stars received, contributions in the displayed year and account join date.">
+</picture></a>
+<a href="https://github.com/VihangaThathsara?tab=repositories"><picture>
+  <source media="(max-width: 600px)" srcset="assets/languages-mobile.svg">
+  <img align="top" src="assets/languages.svg" width="100%" alt="Most used languages by public source-code bytes. Forks and this profile repository are excluded. These percentages describe repository code, not proficiency.">
+</picture></a>
+<a href="https://github.com/VihangaThathsara?tab=overview"><picture>
+  <source media="(max-width: 600px)" srcset="assets/contributions-mobile.svg">
+  <img align="top" src="assets/contributions.svg" width="100%" alt="Contribution calendar and recent activity, current streak and best streak in the displayed year. The mobile calendar displays the latest 91 days.">
+</picture></a>
+<picture>
+  <source media="(max-width: 600px)" srcset="assets/portfolio-connect-mobile.png">
+  <img align="top" src="assets/portfolio-connect.png" width="100%" alt="Let's work together. Open to collaboration, projects and technical conversations.">
+</picture>
+<a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=vihangathegreat2006@gmail.com"><picture>
+  <source media="(max-width: 600px)" srcset="assets/portfolio-email-mobile.png">
+  <img align="top" src="assets/portfolio-email.png" width="100%" alt="Email: vihangathegreat2006@gmail.com — opens Gmail compose.">
+</picture></a>
+<a href="https://www.linkedin.com/in/vihanga-thathsara-00187543b/"><picture><source media="(max-width: 600px)" srcset="assets/portfolio-social-linkedin-mobile.png"><img align="top" src="assets/portfolio-social-linkedin.png" width="50%" alt="LinkedIn: Vihanga Thathsara"></picture></a><a href="https://github.com/VihangaThathsara"><picture><source media="(max-width: 600px)" srcset="assets/portfolio-social-github-mobile.png"><img align="top" src="assets/portfolio-social-github.png" width="50%" alt="GitHub: @VihangaThathsara"></picture></a>
+<picture><source media="(max-width: 600px)" srcset="assets/portfolio-footer-mobile.png"><img align="top" src="assets/portfolio-footer.png" width="100%" alt="Vihanga Thathsara — Full-Stack Software Engineer"></picture>
 </div>
+
+<p align="center"><img src="https://komarev.com/ghpvc/?username=VihangaThathsara&amp;label=PROFILE+VIEWS&amp;color=d85b38&amp;style=flat-square" alt="Profile views"></p>
