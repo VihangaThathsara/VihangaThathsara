@@ -1,0 +1,52 @@
+name: Refresh profile cards
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [main, master]
+    paths:
+      - README.md
+      - scripts/update-profile.mjs
+      - .github/workflows/profile-stats.yml
+  schedule:
+    - cron: '23 1 * * *'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-cards
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Check out the profile repository
+        uses: actions/checkout@v7
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v7
+        with:
+          node-version: '22'
+
+      - name: Generate profile cards
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          PROFILE_USER: ${{ github.repository_owner }}
+          PROFILE_TIMEZONE: Asia/Colombo
+        run: node scripts/update-profile.mjs
+
+      - name: Commit refreshed cards
+        shell: bash
+        run: |
+          git add -- assets/github-overview.svg assets/languages.svg assets/contributions.svg assets/github-overview-mobile.svg assets/languages-mobile.svg assets/contributions-mobile.svg
+          if git diff --cached --quiet; then
+            echo "No card changes to commit."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Refresh profile cards [skip ci]"
+          git push
