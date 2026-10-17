@@ -28,7 +28,7 @@
   <img align="top" src="assets/modern-connect.png" width="100%" alt="Let's connect — open to collaboration">
 </picture>
 <p align="center">
-<a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=vihangathegreat2006@gmail.com"><img align="middle" src="assets/modern-contact-email-mobile.png" width="33%" alt="Gmail"></a><a href="https://www.linkedin.com/in/vihanga-thathsara-00187543b/"><picture><source media="(max-width: 600px)" srcset="assets/modern-contact-linkedin-mobile.png"><img align="middle" src="assets/modern-contact-linkedin.png" width="33%" alt="LinkedIn"></picture></a><a href="https://github.com/VihangaThathsara"><picture><source media="(max-width: 600px)" srcset="assets/modern-contact-github-mobile.png"><img align="middle" src="assets/modern-contact-github.png" width="33%" alt="GitHub"></picture></a>
+<a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=vihangathegreat2006@gmail.com"><img align="top" src="assets/modern-link-email.png" width="33%" alt="Gmail"></a><a href="https://www.linkedin.com/in/vihanga-thathsara-00187543b/"><img align="top" src="assets/modern-link-linkedin.png" width="33%" alt="LinkedIn"></a><a href="https://github.com/VihangaThathsara"><img align="top" src="assets/modern-link-github.png" width="33%" alt="GitHub"></a>
 </p>
 <picture>
   <source media="(max-width: 600px)" srcset="assets/modern-footer-mobile.png">
