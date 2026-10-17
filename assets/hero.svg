@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="300" viewBox="0 0 1000 300" role="img" aria-labelledby="title desc">
+<title id="title">Vihanga Thathsara — Full-Stack Software Engineer</title>
+<desc id="desc">Java at the core. Full-stack in practice. Software Engineering undergraduate, open to collaboration.</desc>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#08101D"/><stop offset="1" stop-color="#142C43"/></linearGradient><radialGradient id="glow"><stop stop-color="#0E7490" stop-opacity=".4"/><stop offset="1" stop-color="#0E7490" stop-opacity="0"/></radialGradient></defs>
+<rect x="1" y="1" width="998" height="298" rx="18" fill="url(#bg)" stroke="#29465E"/>
+<path d="M1 38H999" stroke="#284158"/><circle cx="23" cy="20" r="4" fill="#FB7185"/><circle cx="39" cy="20" r="4" fill="#FBBF24"/><circle cx="55" cy="20" r="4" fill="#34D399"/>
+<g font-family="DejaVu Sans, Arial, sans-serif">
+<text x="76" y="24" fill="#A1B7CD" font-size="12" letter-spacing="1">VIHANGA / SOFTWARE ENGINEERING</text>
+<text x="45" y="82" fill="#67E8F9" font-size="14" font-weight="700" letter-spacing="1.4">FULL-STACK SOFTWARE ENGINEER</text>
+<text x="42" y="143" fill="#F1F5F9" font-size="54" font-weight="700" letter-spacing="-1.6">Vihanga Thathsara<tspan fill="#67E8F9">.</tspan></text>
+<text x="45" y="185" fill="#D4E5F3" font-size="22">Java at the core. Full-stack in practice.</text>
+<text x="45" y="218" fill="#A1B8CC" font-size="17">Backend systems · Web applications · Android</text>
+<ellipse cx="854" cy="157" rx="126" ry="110" fill="url(#glow)"/>
+<circle cx="853" cy="153" r="73" fill="#0D1B2B" stroke="#30576D" stroke-width="2"/>
+<path d="m820 119-22 32 22 32 M886 119l22 32-22 32" fill="none" stroke="#67E8F9" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="m866 114-24 75" stroke="#B5F2FA" stroke-width="4" stroke-linecap="round"/>
+<rect x="817" y="208" width="73" height="27" rx="13.5" fill="#243749" stroke="#527081"/>
+<text x="853.5" y="226" text-anchor="middle" fill="#FBBF24" font-size="14" font-weight="700" letter-spacing="2">JAVA</text>
+<path d="M45 248H955" stroke="#2D465D"/>
+<text x="45" y="278" fill="#AFC4D7" font-size="14">Software Engineering Undergraduate</text>
+<circle cx="756" cy="273" r="4" fill="#34D399"/><text x="770" y="278" fill="#A7F3D0" font-size="13">Open to collaboration</text>
+</g></svg>

@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="267" viewBox="0 0 1000 267" role="img" aria-labelledby="title desc">
+<title id="title">Languages in public repositories</title><desc id="desc">Languages in public repositories</desc>
+<rect x="1" y="1" width="998" height="265" rx="16" fill="#0B1220" stroke="#2C455B"/>
+<g font-family="DejaVu Sans, Arial, sans-serif">
+<text x="24" y="35" fill="#EDF4FB" font-size="24" font-weight="700">Languages in Public Repositories</text>
+<text x="24" y="63" fill="#A5BBD0" font-size="16">Code bytes · Forks and the profile repository excluded</text>
+<defs><clipPath id="bar"><rect x="24" y="92" width="952" height="18" rx="9"/></clipPath></defs>
+<g clip-path="url(#bar)"><rect x="24.00" y="92" width="689.53" height="18" fill="#F89820"><title>Java: 72.4%</title></rect><rect x="713.53" y="92" width="81.85" height="18" fill="#3178C6"><title>TypeScript: 8.6%</title></rect><rect x="795.38" y="92" width="72.13" height="18" fill="#F7DF1E"><title>JavaScript: 7.6%</title></rect><rect x="867.51" y="92" width="65.22" height="18" fill="#A78BFA"><title>CSS: 6.9%</title></rect><rect x="932.73" y="92" width="20.09" height="18" fill="#E34C26"><title>HTML: 2.1%</title></rect><rect x="952.81" y="92" width="18.93" height="18" fill="#4B8BBE"><title>Python: 2.0%</title></rect><rect x="971.74" y="92" width="2.88" height="18" fill="#5391FE"><title>PowerShell: 0.3%</title></rect><rect x="974.62" y="92" width="1.38" height="18" fill="#67E8F9"><title>Batchfile: 0.1%</title></rect></g><circle cx="30" cy="144" r="5" fill="#F89820"/>
+<text x="45" y="150" fill="#E0EBF5" font-size="17" font-weight="600">Java</text>
+<text x="45" y="171" fill="#A5BBD0" font-size="15">72.4% of code bytes</text><circle cx="270" cy="144" r="5" fill="#3178C6"/>
+<text x="285" y="150" fill="#E0EBF5" font-size="17" font-weight="600">TypeScript</text>
+<text x="285" y="171" fill="#A5BBD0" font-size="15">8.6% of code bytes</text><circle cx="510" cy="144" r="5" fill="#F7DF1E"/>
+<text x="525" y="150" fill="#E0EBF5" font-size="17" font-weight="600">JavaScript</text>
+<text x="525" y="171" fill="#A5BBD0" font-size="15">7.6% of code bytes</text><circle cx="750" cy="144" r="5" fill="#A78BFA"/>
+<text x="765" y="150" fill="#E0EBF5" font-size="17" font-weight="600">CSS</text>
+<text x="765" y="171" fill="#A5BBD0" font-size="15">6.9% of code bytes</text><circle cx="30" cy="197" r="5" fill="#E34C26"/>
+<text x="45" y="203" fill="#E0EBF5" font-size="17" font-weight="600">HTML</text>
+<text x="45" y="224" fill="#A5BBD0" font-size="15">2.1% of code bytes</text><circle cx="270" cy="197" r="5" fill="#4B8BBE"/>
+<text x="285" y="203" fill="#E0EBF5" font-size="17" font-weight="600">Python</text>
+<text x="285" y="224" fill="#A5BBD0" font-size="15">2.0% of code bytes</text><circle cx="510" cy="197" r="5" fill="#5391FE"/>
+<text x="525" y="203" fill="#E0EBF5" font-size="17" font-weight="600">PowerShell</text>
+<text x="525" y="224" fill="#A5BBD0" font-size="15">0.3% of code bytes</text><circle cx="750" cy="197" r="5" fill="#67E8F9"/>
+<text x="765" y="203" fill="#E0EBF5" font-size="17" font-weight="600">Batchfile</text>
+<text x="765" y="224" fill="#A5BBD0" font-size="15">0.1% of code bytes</text>
+<text x="24" y="250" fill="#9AB2C8" font-size="14">Language share describes repository code, not skill level.</text></g></svg>
